@@ -1,5 +1,5 @@
-### Hello!
-I'm a high school student in KY. I'm looking to study computer science in college and be a programmer.
+### Hello World!
+I'm a first year computer science student at the University of Cincinnati.
 
 <!--
 **tdaug6/tdaug6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
